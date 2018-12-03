@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.1/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

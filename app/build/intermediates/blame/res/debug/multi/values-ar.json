@@ -1,0 +1,772 @@
+[
+    {
+        "outputFile": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 116,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 116,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 103,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 103,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 108,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 108,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 81,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 81,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 100,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 100,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 113,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 113,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 78,
+                    "endOffset": 806
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 78,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 811,
+                    "endColumn": 78,
+                    "endOffset": 885
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 78,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 890,
+                    "endColumn": 78,
+                    "endOffset": 964
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 78,
+                        "endOffset": 964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 969,
+                    "endColumn": 104,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 969,
+                        "endColumn": 104,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 100,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1074,
+                        "endColumn": 100,
+                        "endOffset": 1170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1175,
+                    "endColumn": 95,
+                    "endOffset": 1266
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1175,
+                        "endColumn": 95,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1271,
+                    "endColumn": 107,
+                    "endOffset": 1374
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 107,
+                        "endOffset": 1374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1379,
+                    "endColumn": 102,
+                    "endOffset": 1477
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1379,
+                        "endColumn": 102,
+                        "endOffset": 1477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1482,
+                    "endColumn": 102,
+                    "endOffset": 1580
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1482,
+                        "endColumn": 102,
+                        "endOffset": 1580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1585,
+                    "endColumn": 154,
+                    "endOffset": 1735
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1585,
+                        "endColumn": 154,
+                        "endOffset": 1735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1740,
+                    "endColumn": 96,
+                    "endOffset": 1832
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1740,
+                        "endColumn": 96,
+                        "endOffset": 1832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1837,
+                    "endColumn": 80,
+                    "endOffset": 1913
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1837,
+                        "endColumn": 80,
+                        "endOffset": 1913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1918,
+                    "endColumn": 100,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.1/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 116,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 116,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 172,
+                    "endColumn": 107,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 107,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 122,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 122,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 103,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 103,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 108,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 108,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 81,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 81,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endColumn": 100,
+                    "endOffset": 794
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 100,
+                        "endOffset": 794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 799,
+                    "endColumn": 113,
+                    "endOffset": 908
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 799,
+                        "endColumn": 113,
+                        "endOffset": 908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 913,
+                    "endColumn": 78,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 78,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 78,
+                    "endOffset": 1066
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 78,
+                        "endOffset": 1066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1071,
+                    "endColumn": 78,
+                    "endOffset": 1145
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1071,
+                        "endColumn": 78,
+                        "endOffset": 1145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1150,
+                    "endColumn": 104,
+                    "endOffset": 1250
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1150,
+                        "endColumn": 104,
+                        "endOffset": 1250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1255,
+                    "endColumn": 100,
+                    "endOffset": 1351
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1255,
+                        "endColumn": 100,
+                        "endOffset": 1351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1356,
+                    "endColumn": 95,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1356,
+                        "endColumn": 95,
+                        "endOffset": 1447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endColumn": 107,
+                    "endOffset": 1555
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1452,
+                        "endColumn": 107,
+                        "endOffset": 1555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1560,
+                    "endColumn": 102,
+                    "endOffset": 1658
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1560,
+                        "endColumn": 102,
+                        "endOffset": 1658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1663,
+                    "endColumn": 102,
+                    "endOffset": 1761
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1663,
+                        "endColumn": 102,
+                        "endOffset": 1761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1766,
+                    "endColumn": 118,
+                    "endOffset": 1880
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1766,
+                        "endColumn": 118,
+                        "endOffset": 1880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1885,
+                    "endColumn": 96,
+                    "endOffset": 1977
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1885,
+                        "endColumn": 96,
+                        "endOffset": 1977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1982,
+                    "endColumn": 80,
+                    "endOffset": 2058
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1982,
+                        "endColumn": 80,
+                        "endOffset": 2058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2063,
+                    "endColumn": 100,
+                    "endOffset": 2159
+                },
+                "from": {
+                    "file": "/Users/NDW/Downloads/AndroidCodeUI/C:\\Users\\Devcare\\Desktop\\Android\\AndroidCodeUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2063,
+                        "endColumn": 100,
+                        "endOffset": 2159
+                    }
+                }
+            }
+        ]
+    }
+]
